@@ -7,7 +7,7 @@ Dockerfile para migrar un sitio web en un servidor Nginx
 
 #Para ejecutar la imagen
 
--docker run -p 8080:80 <nombre de la imagen docker>
+-docker run -p 8080:80 nombre-de-la-imagen-docker
 
 #Para visualizar el template en Nginx
 
